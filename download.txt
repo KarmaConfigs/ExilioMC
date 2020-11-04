@@ -1,6 +1,6 @@
 NAME: ExilioMC
 DOWNLOAD: https://karmaconfigs.github.io/ExilioMC/download.txt
-SHADERS: false
+SHADERS: true
 TEXTURES: false
 CONFIGS: true
 VERSION: 1.12.2-forge-14.23.5.2854
