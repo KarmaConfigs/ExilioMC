@@ -1,0 +1,101 @@
+NAME: ExilioMC
+DOWNLOAD: https://karmaconfigs.github.io/ExilioMC/download.txt
+SHADERS: false
+TEXTURES: false
+CONFIGS: true
+VERSION: 1.12.2-forge-14.23.5.2854
+INHERIT: 1.12.2
+URL: https://karmaconfigs.github.io/ExilioMC/download/modpack.zip
+[LIST=MODS]
+AbyssalCraft-1.12.2-1.10.2.jar
+ActuallyAdditions-1.12.2-r151-2.jar
+armoryexpansion-1.4.2.jar
+astralsorcery-1.12.2-1.10.27.jar
+Baubles-1.12-1.5.2.jar
+bettercaves-1.12.2-2.0.4.jar
+BetterDiving-1.12.2-1.5.7.jar
+BetterFps-Mod-1.12.2.jar
+BetterMineshaftsForge-1.12.2-1.3.1.jar
+betternether-0.1.8.6.jar
+BiomesOPlenty-1.12.2-7.0.1.2441-universal (1).jar
+BloodMagic-1.12.2-2.4.3-105.jar
+Botania+r1.10-363.jar
+ChestTransporter-1.12.2-2.8.8.jar
+Chisel-MC1.12.2-1.0.2.45.jar
+Clumps-3.1.2.jar
+CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+CoFHCore-1.12.2-4.6.6.1-universal.jar
+CoFHWorld-1.12.2-1.3.1.7-universal.jar
+conarm-1.12.2-1.2.5.9.jar
+CraftPresence-1.12.2-1.6.6.jar
+CreativeCore_v1.10.29_mc1.12.2.jar
+CTM-MC1.12.2-1.0.2.31.jar
+CustomNPCs_1.12.2-(05Jul20).jar
+cyberware-1.12.2-0.2.11.26.jar
+CyclopsCore-1.12.2-1.6.6.jar
+DarknessLib-1.12.2-1.1.0.jar
+ElevatorMod-1.12.2-1.3.14.jar
+EnderCore-1.12.2-0.5.76.jar
+EnderIO-1.12.2-5.2.59.jar
+EnderStorage-1.12.2-2.4.6.137-universal.jar
+Erebus-1.0.31.jar
+EvilCraft-1.12.2-0.10.78.jar
+Explorercraft-2.2.14.jar
+extrautils2-1.12-1.9.9.jar
+ExtremeReactors-1.12.2-0.4.5.67.jar
+foamfix-0.10.5-1.12.2.jar
+Forgelin-1.8.4.jar
+furniture-6.3.1-1.12.2.jar
+Grue-1.12.2-1.8.0.jar
+Guide-API-1.12-2.1.8-63.jar
+HardcoreDarkness-MC1.12.2-2.0.jar
+Hwyla-1.8.20-B35_1.12.jar
+industrialcraft-2-2.8.170-ex112.jar
+InfernalMobs-1.12.2.jar
+jei_1.12.2-4.15.0.268.jar
+journeymap-1.12.2-5.7.1.jar
+llibrary-1.7.19-1.12.2.jar
+MagmaMonsters-0.3.0.jar
+Mantle-1.12-1.3.3.55.jar
+MCDecorationsMod-1.9.0.jar
+mcjtylib-1.12-3.5.4.jar
+Mekanism-1.12.2-9.8.3.390.jar
+MekanismGenerators-1.12.2-9.8.3.390.jar
+MekanismTools-1.12.2-9.8.3.390.jar
+MineTraps-1.12.2-(v.1.0.4).jar
+mw_2.0-0.4.5.2_mc1.12.2.jar
+NoMoreRecipeConflict-0.131.12.2.jar
+obfuscate-0.4.2-1.12.2.jar
+Patchouli-1.0-21.jar
+PlayerRevive_v1.2.35_mc1.12.2.jar
+plustic-7.1.6.1.jar
+preview_OptiFine_1.12.2_HD_U_F6_pre1.jar
+ProgressiveBosses-1.5.4-mc1.12.x.jar
+randompatches-1.12.2-1.22.1.1.jar
+RandomThings-MC1.12.2-4.2.7.4.jar
+randomtweaks-1.12.2-2.8.2.0.jar
+rats-3.2.14-1.12.2.jar
+RedstoneFlux-1.12-2.1.1.1-universal.jar
+refinedstorage-1.6.16.jar
+rftools-1.12-7.73.jar
+rustic-1.1.6.jar
+simplylight-1.12.2-0.8.7.jar
+Stupid+Things-1.12.2-1.1.6.jar
+TConstruct-1.12.2-2.13.0.183.jar
+Thaumcraft-1.12.2-6.1.BETA26.jar
+ThermalCultivation-1.12.2-0.3.6.1-universal.jar
+ThermalDynamics-1.12.2-2.5.6.1-universal.jar
+ThermalExpansion-1.12.2-5.5.7.1-universal.jar
+ThermalFoundation-1.12.2-2.6.7.1-universal.jar
+ThermalInnovation-1.12.2-0.3.6.1-universal.jar
+TinkerToolLeveling-1.12.2-1.1.0.jar
+Trapcraft-1.12.2-2.4.5.jar
+Traverse-1.12.2-1.6.0-69.jar
+twilightforest-1.12.2-3.11.1021-universal.jar
+UniDict-1.12.2-2.9.2.jar
+VanillaFix-1.0.10-150.jar
+VariedCommodities_1.12.2(21nov19).jar
+vehicle-mod-0.44.1-1.12.2.jar
+WanionLib-1.12.2-2.2.jar
+zerocore-1.12.2-0.1.2.8.jar
+[/LIST=MODS]
